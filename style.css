@@ -37,7 +37,6 @@ body {
 	color: var(--pink);
 	font-size: 5rem;
 	font-weight: bold;
-	text-position: center;
 }
 
 .hero h2 {
@@ -448,7 +447,7 @@ right: auto;
 
 
 /* Moblie Phone */
-@Media (max-width: 576spx){
+@Media (max-width: 576px){
 	html{
 		font-size: 50%;
 }
